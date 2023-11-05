@@ -3,4 +3,4 @@
 This project aims to predict the score of student based on how many hours does student spend???
 
 Youtube Link
-https://youtu.be/dxsI_qJEuig
+https://www.youtube.com/watch?v=Br3E_fNIq1A
